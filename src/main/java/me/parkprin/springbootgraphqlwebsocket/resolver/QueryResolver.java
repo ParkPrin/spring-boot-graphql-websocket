@@ -1,4 +1,4 @@
-package me.parkprin.springbootgraphqlwebsocket;
+package me.parkprin.springbootgraphqlwebsocket.resolver;
 
 import graphql.kickstart.tools.GraphQLQueryResolver;
 

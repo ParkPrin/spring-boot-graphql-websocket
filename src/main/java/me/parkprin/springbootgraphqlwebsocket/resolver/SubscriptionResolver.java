@@ -1,4 +1,4 @@
-package me.parkprin.springbootgraphqlwebsocket;
+package me.parkprin.springbootgraphqlwebsocket.resolver;
 
 import graphql.kickstart.tools.GraphQLSubscriptionResolver;
 import java.time.Duration;
